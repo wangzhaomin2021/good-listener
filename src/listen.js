@@ -1,3 +1,4 @@
+// @wzm 2022-12-6
 var is = require('./is');
 var delegate = require('delegate');
 
